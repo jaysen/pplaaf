@@ -1,12 +1,12 @@
 ---
 layout: post-en
 title: Job woes for Trillian whistle-blower after exposé
-author: Jessica Bezuidenhout for SCORPIO
+author:
 origin: This article first appeared in <a href="https://www.dailymaverick.co.za/article/2017-10-03-exclusive-job-woes-for-trillian-whistle-blower-after-expos" target="_blank">the Daily Maverick</a>
 excerpt_separator: <!--more-->
 image: trillian-guptas.jpg
-excerpt: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job.
-introduction: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job.
+excerpt: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job. By Jessica Bezuidenhout for SCORPIO.
+introduction: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job. By Jessica Bezuidenhout for SCORPIO.
 tag: featured
 
 ---
