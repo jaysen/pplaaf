@@ -11,6 +11,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+include:        ['.htaccess']
+
 collections:
   ngos-en:
   board-en:
