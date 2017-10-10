@@ -10,6 +10,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - robots.txt
 
 collections:
   ngos-en:
