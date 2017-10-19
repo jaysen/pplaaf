@@ -17,7 +17,7 @@ Up until South Africa’s largest union federation, SAFTU, took on ‘state capt
 
 As valuable and brave as their activism is (we think here specifically of people like Magda Wierzycka and organisations like OUTA), their work was susceptible to the insidious critique that the anti-corruption fight was mainly a middle-class concern.
 
-<img class="image-responsive img-right" src="/img/posts/saftu.jpg" width="320px">SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa. They have firmly placed prosecuting authorities on terms to take action against the Gupta family and others who are widely perceived to corruptly benefit from a close relationship with President Zuma. 
+<img class="image-responsive img-right" src="/img/posts/saftu2.jpg" width="320px">SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa. They have firmly placed prosecuting authorities on terms to take action against the Gupta family and others who are widely perceived to corruptly benefit from a close relationship with President Zuma. 
 
 And this locates the costs of corruption at its true centre. The working class and the poor suffer the most. SAFTU’s leading role also deprives the race-baiters who make up President Zuma’s advance guard of supporters of a convenient alibi. This is that the accusations about corruption come from the rich and white communities.
 
