@@ -45,7 +45,6 @@ November 10th 2017 <br>
 
 ### For further information, please contact:
 - In Paris, William Bourdon (French, English): [w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com) or + 33 1 42 60 32 60
-- In Paris, Henri Thulliez (French, English): [henri.thulliez@gmail.com](mailto:henri.thulliez@gmail.com) or + 33 6 98 04 66 72
 - In Johannesburg, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76 
 
 
