@@ -1,6 +1,6 @@
 ---
 layout: post-en
-title: Press Release - GuptaLeaks to be released to journalists worldwide
+title: GuptaLeaks to be released to journalists worldwide
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: gupta-leaks-1.png

@@ -3,7 +3,7 @@ layout: post-en
 title: Press Release - More Revelations on South African State Capture
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: gupta-leaks-1.png
+image: pressrelease.png
 excerpt: The role of Trillian and key associates of the Gupta family in accessing insider information and siphoning billions from state-owned entities in collusion with Ministers and other public officials, and multinationals unravelled
 introduction: (Johannesburg – November 10 2017) – On October 31 and November 2017  Bianca Goodson and Mosilo Mothepu, former CEOs of Gupta-linked Trillian testified in South Africa's parliamentary Portfolio Committee on Public Enterprises (Éskom Inquiry'). Corroborating accounts coupled with annexures unraveled the role of Trillian and key associates of the Gupta family in accessing insider information and siphoning billions from state-owned entities such as Transnet and Eskom in collusion with Ministers and other public officials, and multinationals such as McKinsey and SAP. Testimonies were provided under the umbrella of parliamenntary immunity. 
 tag: featured
