@@ -316,10 +316,13 @@ p {
 }
 
 .post-blockquote {
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center !important;
 }
-
+.post-blockquote-ref {
+	font-size: 12px;
+	font-weight: bold;
+}
 
 
 // .post-image {
