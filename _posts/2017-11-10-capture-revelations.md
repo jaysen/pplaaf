@@ -10,7 +10,7 @@ tag: featured
 
 ---
 
-(Johannesburg, November 10th, 2017) – After [publishing the Gupta Leaks](https://pplaaf.in/gleaks/) with its partners, PPLAAF is now disclosing relevant documents of the former CEO of the Gupta-linked company Trillian, declared today [PPLAAF](https://pplaaf.org), the Platform to Protect Whistleblowers in Africa. 
+(Johannesburg, November 10th, 2017) – After publishing the Gupta Leaks with its partners, PPLAAF is now disclosing relevant documents of the former CEO of the Gupta-linked company Trillian, declared today [PPLAAF](https://pplaaf.org), the Platform to Protect Whistleblowers in Africa. 
 
 On October 31st and November 3rd, 2017, Bianca Goodson and Mosilo Mothepu, former CEOs of Gupta-linked Trillian, testified in South Africa's parliamentary Portfolio Committee on Public Enterprises (“Eskom Inquiry”). 
 
