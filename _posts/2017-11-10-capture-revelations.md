@@ -22,7 +22,7 @@ Goodson's statement was previously [released](https://pplaaf.in/trillian-bg/) by
 
 Mothepu’s statement was provided to members of parliament and selected journalists. Mothepu continues to face criminal and civil charges laid by Trillian and has since been accused of perjury by Gupta-associate and Trillian CEO, Eric Wood. 
 
-Following a request from the Honorable Acting Chair of the “Eskom Inquiry” to publish “selected extracts” of the Gupta Leaks, PPLAAF curated specific interactions around themes such as Eskom, Transnet, Ministers, Bell Pottinger, KPMG, SAA and Denel among others. These documents, which are meant to show interactions between key persons and entities, are publicly [accessible](https://pplaaf.in/gleaks/) for a period of ten days. 
+Following a request from the Honorable Acting Chair of the “Eskom Inquiry” to publish “selected extracts” of the Gupta Leaks, PPLAAF curated specific interactions around themes such as Eskom, Transnet, Ministers, Bell Pottinger, KPMG, SAA and Denel among others. These documents, which are meant to show interactions between key persons and entities, are [publicly accessible](https://pplaaf.in/gleaks/) for a period of ten days. 
 
 PPLAAF complied with the request of the Parliament as it believes that it is important for citizens to directly access a glimpse of the information - showing how public officials, the Gupta family and their associates, are alleged to have interacted - to understand the depth and ease with which “State capture” occurred at the highest level of political power and influence. 
 
