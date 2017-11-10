@@ -1,9 +1,9 @@
 ---
 layout: post-en
-title: Press Release - GuptaLeaks to be released to journalists worldwide
+title: GuptaLeaks to be released to journalists worldwide
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: pressrelease.png
+image: gupta-leaks-1.png
 excerpt: OCCRP, Daily Maverick, and PPLAAF launch an online facility for sharing the GuptaLeaks.
 introduction: OCCRP, Daily Maverick, and PPLAAF launch an online facility for sharing the GuptaLeaks.
 tag: featured
