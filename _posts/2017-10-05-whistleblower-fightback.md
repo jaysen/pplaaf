@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 image: nenewhistle.jpg
 excerpt: Former Trillian CEO launches defamation suit against the company over damaging statements branding her as a vindictive criminal following her state capture disclosures. By Jessica Bezuidenhout for SCORPIO.
 introduction: Former Trillian CEO launches defamation suit against the company over damaging statements branding her as a vindictive criminal following her state capture disclosures. By Jessica Bezuidenhout for SCORPIO.
-tag: featured
 
 ---
 

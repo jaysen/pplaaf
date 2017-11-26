@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 image: nigeria-seminar.jpg
 excerpt: PPLAAF participated to a two-days stakeholders’ seminar on whistleblowing and legal protection.
 introduction: PPLAAF participated to a two-days stakeholders’ seminar on whistleblowing and legal protection.
-tag: featured
+
 ---
 
 (Abuja, June 15th, 2017) – Discussions conducted in the Nigerian House of Representatives between parliamentarians, stakeholders, civil society organizations and journalists are a genuine move toward adopting a progressive bill to protect whistleblowers, said [PPLAAF](https://pplaaf.org) (Platform to Protection Whistleblowers in Africa) today in Abuja.

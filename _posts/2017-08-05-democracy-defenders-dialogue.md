@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: democracy-defenders.jpg
 excerpt: Democracy Works Foundation (DWF), PPLAAF, Wits School of Governance (WSG) and Business Leadership South Africa (BLSA) hosted a public dialogue centering on the theme of Democracy Defenders
 introduction: Democracy Works Foundation (DWF), PPLAAF, Wits School of Governance (WSG) and Business Leadership South Africa (BLSA) hosted a public dialogue centering on the theme of Democracy Defenders
-tag: featured
+
 
 ---
 <img class="img-responsive img-post center-block" src="/img/posts/democracy-defenders.jpg" title="©Oscar-Gutierrez - oscargutierrez.com">

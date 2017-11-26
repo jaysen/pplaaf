@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 image: zuma1.jpg
 excerpt: Former executive to give ‘state capture’ evidence before parliamentary inquiry
 introduction: A whistleblower who spoke out about how powerful business interests gained undue influence over decision-making in South Africa’s government said she has suffered politically motivated persecution and been cold-shouldered by employers since giving her testimony.
-tag: featured
 
 ---
 

@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: lumumba.jpg
 excerpt: New revelations concerning companies belonging to individuals close to Kabila result from documents sent to PPLAAF by a whistleblower.
 introduction: New revelations concerning companies belonging to individuals close to Kabila result from documents sent to PPLAAF by a whistleblower.
-tag: featured
+
 
 ---
 <img class="img-responsive img-post center-block" src="/img/posts/lumumba-l.jpg">

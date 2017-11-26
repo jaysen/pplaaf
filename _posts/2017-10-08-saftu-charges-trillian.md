@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 image: saftu.jpg
 excerpt: Why SAFTU has laid fraud, theft, corruption and money laundering charges against Trillian and others 
 introduction: Why SAFTU has laid fraud, theft, corruption and money laundering charges against Trillian and others 
-tag: featured
 
 ---
 

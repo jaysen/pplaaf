@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: bourdon.jpg
 excerpt: Whistle-blowers in Africa under threat have little legal protection, says lawyer representing Assange, Snowden and more.
 introduction: Whistle-blowers in Africa under threat have little legal protection, says lawyer representing Assange, Snowden and more.
-tag: featured
+
 ---
 <img class="img-responsive img-post center-block" src="/img/posts/bourdon.jpg">
 <br>

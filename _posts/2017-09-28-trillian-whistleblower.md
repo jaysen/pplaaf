@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 image: trillian-bg.jpg
 excerpt: Bianca Goodson, the former chief executive of a Gupta-linked consulting firm, has broken her silence 18 months after resigning in dismay.
 introduction: Bianca Goodson, the former chief executive of a Gupta-linked consulting firm, has broken her silence 18 months after resigning in dismay.
-tag: featured
 
 ---
 
