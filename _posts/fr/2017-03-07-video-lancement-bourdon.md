@@ -8,7 +8,6 @@ origin: <a href="https://www.youtube.com/watch?v=A6LQ4gpFCUM" target="_blank">AZ
 excerpt: Il y a une exigence de protéger les citoyens qui défendent l’intérêt général
 introduction: Il y a une exigence de protéger les citoyens qui défendent l’intérêt général
 category: fr
-tag: featured
 ---
 
 <iframe style="margin-top: 30px;" class="center-block" width="560" height="315" src="https://www.youtube.com/embed/A6LQ4gpFCUM" frameborder="0" allowfullscreen></iframe>
