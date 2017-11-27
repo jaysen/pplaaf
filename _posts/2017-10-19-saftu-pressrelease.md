@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: saftu.jpg
 excerpt: SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa.
 introduction: SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa.
-
+tag: [pressrelease]
 ---
 
 <!-- <img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">  -->
