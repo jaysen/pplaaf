@@ -3,7 +3,7 @@ layout: post-en
 title: SAFTU Takes on Corruption - Press Release
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: saftu.jpg
+image: pressrelease.png
 excerpt: SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa.
 introduction: SAFTU and its 700000 mainly black working class members have now very publicly joined the lawfare against corruption in South Africa.
 tag: [pressrelease]
