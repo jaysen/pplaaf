@@ -3,9 +3,10 @@ layout: post-en
 title: DRC&#58; New revelations concerning companies belonging to individuals close to Kabila
 author: 
 excerpt_separator: <!--more-->
-image: lumumba.jpg
+image: pressrelease.png
 excerpt: New revelations concerning companies belonging to individuals close to Kabila result from documents sent to PPLAAF by a whistleblower.
 introduction: New revelations concerning companies belonging to individuals close to Kabila result from documents sent to PPLAAF by a whistleblower.
+tag: [pressrelease]
 
 
 ---

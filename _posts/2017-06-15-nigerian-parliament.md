@@ -2,7 +2,7 @@
 layout: post-en
 title: PPLAAF&#58; Genuine efforts of Nigerian parliamentarians to protect whistleblowers welcomed
 excerpt_separator: <!--more-->
-image: nigeria-seminar.jpg
+image: pressrelease.png
 excerpt: PPLAAF participated to a two-days stakeholders’ seminar on whistleblowing and legal protection.
 introduction: PPLAAF participated to a two-days stakeholders’ seminar on whistleblowing and legal protection.
 tag: [pressrelease]

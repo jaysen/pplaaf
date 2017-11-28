@@ -3,10 +3,10 @@ layout: post-fr
 title: RDC&#58; Nouvelles révélations sur des sociétés appartenant à des proches de Kabila
 author: 
 excerpt_separator: <!--more-->
-image: lumumba.jpg
+image: pressrelease.png
 excerpt: RDC&#58; Nouvelles révélations sur des sociétés appartenant à des proches de Kabila. Les enquêtes ont été menées grâce aux documents transmis à PPLAAF par un lanceur d’alerte
 introduction: Les enquêtes ont été menées grâce aux documents transmis à PPLAAF par un lanceur d’alerte
-tag: featured
+tag: [featured, pressrelease]
 category: fr
 ---
 <img class="img-responsive img-post center-block" src="/img/posts/lumumba-l.jpg">
