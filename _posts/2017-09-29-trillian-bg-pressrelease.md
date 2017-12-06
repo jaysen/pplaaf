@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: Former CEO of Trillian Management Consulting, Bianca Goodson's statement with new revelations on South African State Capture
 introduction: Former CEO of Trillian Management Consulting, Bianca Goodson's statement with new revelations on South African State Capture
-tag: [featured, pressrelease]
+tag: [pressrelease]
 
 ---
 
