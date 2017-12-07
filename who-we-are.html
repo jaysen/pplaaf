@@ -90,23 +90,6 @@ layout: default-en
 		<span class="anchor" id="legal"></span>
 		<h2>Legal</h2>
 		<p style="padding-bottom:30px;">PPLAAF has lawyers in Burkina Faso, Ghana, Senegal, Togo, Niger, Mauritania, Chad, Benin, Sierra Leone, South Africa, Namibia, Botswana, Morocco, Kenya, Tanzania, Democratic Republic of Congo, Sudan, and South Sudan</p>
-		<span class="anchor" id="journalists"></span>
-		<h2>Journalists</h2>
-		<p>Some journalists are not included for security reasons</p>
-		{% for journalist in site.journalists-en %}
-		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
-		<div class="row journalists">
-			{% unless journalist.content-missing %}
-				<div class="col-xs-12 col-sm-10">
-					<div class="journalist-content">{{ journalist.content }}</div>
-				</div>
-			{% endunless %}
-			<div class="col-xs-12 col-sm-2 hidden-xs">
-				{% if journalist.image %}
-				<img class="center-block" src="/img/journalists/{{ journalist.image }}">
-				{% endif %}
-			</div>
-		</div>
-		{% endfor %}
+
 	</div>
 </div>
