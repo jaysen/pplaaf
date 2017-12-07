@@ -14,7 +14,6 @@ exclude:
 collections:
   ngos-en:
   board-en:
-  journalists-en:
   management-en:
   studies-en:
   management-en:
@@ -26,7 +25,6 @@ collections:
     permalink: :name.html
   ngos-fr:
   board-fr:
-  journalists-fr:
   management-fr:
   profiles-fr:
     output: true
@@ -36,7 +34,6 @@ collections:
     permalink: fr/:name.html
   # ngos-pt:
   board-pt:
-  journalists-pt:
   management-pt:
   profiles-pt:
     output: true
