@@ -345,4 +345,29 @@ p {
 		background-color: #a94442;
 		background-image: none;
 	}
+	
 }	
+
+.contact-box {
+	margin-block-start:20px;
+	margin-block-end: 20px;
+	font-weight: 800;
+	text-align: center;
+	a {
+		text-transform: uppercase;
+		color: #a94442;
+	}
+	.contact-title {
+		line-height: 40px;
+	}
+	.contact-txt {
+		text-align: center;
+		font-size: smaller;
+	}
+	.contact-img {
+		margin-bottom: 5px;
+		border-radius: 50%;
+		width: 220px;
+		height: 220px;
+	}
+}
