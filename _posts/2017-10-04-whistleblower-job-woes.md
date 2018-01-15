@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: trillian-guptas.jpg
 excerpt: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job. By Jessica Bezuidenhout for SCORPIO.
 introduction: Sygnia CEO Magda Wierzycka rips into software giant over bizarre circumstances around the “resignation” of a state capture whistle-blower, and offers her a job. By Jessica Bezuidenhout for SCORPIO.
-tag: featured
+
 
 ---
 
