@@ -1,6 +1,6 @@
 ---
 layout: post-en
-title: Embargoed - Press Release
+title: Press Release
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.png
@@ -37,11 +37,16 @@ These and other whistleblowers’ courage formed the basis of these initiatives.
 
 PPLAAF is a Senegalese non-governmental organisation founded in 2017 by advocate Willian Bourdon with the mandate of supporting whistleblowers and leaks through legal strategy, funding, research, legislation, technology and other needs. 
 
-
 <br>
 PPLAAF <br>
 [info@pplaaf.org](mailto:info@pplaaf.org)
 
+<br>
+### Links to this story elsewhere:
+- [DailyMaverick Scorpio: Gupta-linked Trillian and McKinsey’s assets to be frozen by order of High Court](https://www.dailymaverick.co.za/article/2018-01-15-scorpio-gupta-linked-trillian-and-mckinseys-assets-to-be-frozen-by-order-of-high-court/)
+- [ENCA: Saftu applauds McKinsey and Trillian asset freeze](http://www.enca.com/south-africa/saftu-applauds-mckinsey-and-trillian-asset-freeze)
+
+<br>
 <br>
 
 ----------------------
