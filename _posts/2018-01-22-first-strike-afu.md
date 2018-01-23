@@ -9,7 +9,7 @@ excerpt: This week the Asset Forfeiture Unit launched their first strike against
 introduction:
 tag: [featured, SouthAfrica]
 ---
-**This week the Asset Forfeiture Unit launched their first strike against international consulting company McKinsey and the Gupta-linked company, Trillian. Their preservation order freezes R1.6 billion, but that is just the beginning, says the NPA. They hope to recover another R50- billion. In an exclusive interview, Carte Blanche sits down with Suzanne Daniels, the Eskom executive, who was the first to recommend these companies pay back the money, but was suspended shortly afterwards.**
+This week the Asset Forfeiture Unit launched their first strike against international consulting company McKinsey and the Gupta-linked company, Trillian. Their preservation order freezes R1.6 billion, but that is just the beginning, says the NPA. They hope to recover another R50- billion. In an exclusive interview, Carte Blanche sits down with Suzanne Daniels, the Eskom executive, who was the first to recommend these companies pay back the money, but was suspended shortly afterwards.
 
 <a href="https://carteblanche.dstv.com/first-strike-afu/" target="blank"><img class="img-responsive img-post center-block" src="/img/posts/carteblanche1.jpg"></a>
 <br>

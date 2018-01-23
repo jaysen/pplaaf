@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: Gupta Leaks and Trillian Whistleblower’s Data Now Available
 introduction: Gupta Leaks and Trillian Whistleblower’s Data Now Available
-tag: [featured, pressrelease]
+tag: [pressrelease]
 
 ---
 

@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: gupta-leaks-1.png
 excerpt: OCCRP, Daily Maverick, and PPLAAF launch an online facility for sharing the GuptaLeaks.
 introduction: OCCRP, Daily Maverick, and PPLAAF launch an online facility for sharing the GuptaLeaks.
-tag: featured
+tag: 
 
 ---
 
