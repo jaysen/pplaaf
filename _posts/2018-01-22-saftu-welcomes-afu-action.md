@@ -44,7 +44,7 @@ The AFU application details how Atul Gupta personally benefited to the tune of R
 
 -----
 
-From the African News Agency via<a href="https://www.enca.com/south-africa/saftu-welcomes-afu-s-action-to-recover-gupta-linked-proceeds-of-crime" target="_blank">ENCA.com</a>
+From the African News Agency via <a href="https://www.enca.com/south-africa/saftu-welcomes-afu-s-action-to-recover-gupta-linked-proceeds-of-crime" target="_blank">ENCA.com</a>
 
 ----------------------
 
