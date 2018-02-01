@@ -5,7 +5,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: Algérie&#58 Les lanceurs d’alerte ne devraient pas subir de représailles. Un lanceur d’alerte poursuivi après avoir dénoncé des malversations au sein d’une entreprise publique
-introduction: Algérie&#58 Les lanceurs d’alerte ne devraient pas subir de représailles. Un lanceur d’alerte poursuivi après avoir dénoncé des malversations au sein d’une entreprise publique
+introduction: Un lanceur d’alerte poursuivi après avoir dénoncé des malversations au sein d’une entreprise publique
 tag: featured
 category: fr
 ---
@@ -51,10 +51,5 @@ Un lanceur d’alerte est une personne qui révèle des informations concernant 
 - <https://pplaaf.org/>
 - Facebook: <https://fr-fr.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
-
-### Pour plus d’informations sur les Africtivistes, visitez les pages :
-- <http://africtivistes.org/>
-- Twitter : [@AFRICTIVISTES](https://twitter.com/AFRICTIVISTES?lang=fr)
-
 
 --------------
