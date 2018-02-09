@@ -4,7 +4,7 @@ url: "https://pplaaf.org"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
