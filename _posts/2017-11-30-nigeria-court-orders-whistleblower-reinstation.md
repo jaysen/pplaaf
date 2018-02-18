@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: A former Principal Administrative officer had been suspended by his hierarchy after disclosing to the authorities fraudulent activities
 introduction: A former Principal Administrative officer had been suspended by his hierarchy after disclosing to the authorities fraudulent activities
-tag: [pressrelease, featured, Nigeria]
+tag: [pressrelease, Nigeria]
 ---
 
 <!-- <img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">  -->
