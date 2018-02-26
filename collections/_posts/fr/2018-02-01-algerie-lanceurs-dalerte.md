@@ -9,7 +9,7 @@ introduction: Un lanceur d’alerte poursuivi après avoir dénoncé des malvers
 tag: featured
 category: fr
 ---
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/cyber-journ.jpg"> -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/cyber-journ.jpg"> -->
 
 (Paris, le 2 février 2018) – L’inculpation d’un lanceur d’alerte algérien pour divulgations de secrets d’entreprise le 28 janvier, puis pour diffamation le 31 janvier, montre que la situation des lanceurs dans ce pays demeure préoccupante, a déclaré la Plateforme de Protection des Lanceurs d’Alerte en Afrique (PPLAAF) aujourd’hui.  
 

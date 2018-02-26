@@ -10,7 +10,7 @@ introduction: Saftu congratulates all those, including the federation itself, wh
 tag: [featured, SouthAfrica]
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/saftu.jpg">
 <br>
 <br>
 

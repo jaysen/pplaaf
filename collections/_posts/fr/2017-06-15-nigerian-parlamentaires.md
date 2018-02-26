@@ -36,6 +36,6 @@ Tous ces points étaient inclus dans le projet de loi rédigé par PPLAAF. PPLAA
 
 [PPLAAF](https://pplaaf.org/faq.html) est une organisation non gouvernementale sénégalaise créée en mars 2017 proposant un spectre entier de solutions pour pourvoir aux différents besoins des lanceurs d’alerte : encryptage d’un bout à l’autre de la communication, soutien juridique gratuit en conseils ou en représentation légale contre des employeurs ou autre, assistance continue pour protéger le lanceur d’alerte dans la divulgation de l’information au public, développement de législations protégeant les lanceurs d’alerte. 
 <br>
-<img class="img-responsive img-post center-block" src="/img/posts/nigeria-seminar-1.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/nigeria-seminar-1.jpg">
 
 <br>

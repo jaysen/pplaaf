@@ -9,7 +9,7 @@ excerpt: La fratrie indienne a misé au début des années 2000 sur le jeune fil
 introduction: La fratrie indienne a misé au début des années 2000 sur le jeune fils de Jacob Zuma, alors en pleine ascension politique malgré une première affaire de corruption.
 category: fr
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/duduzane.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/duduzane.jpg">
 
 <br>
 Entre Johannesburg et Dubaï, Duduzane Zuma, 35 ans, mène la grande vie. Celle d’un jeune homme devenu millionnaire grâce au nom de son père, le président sud-africain Jacob Zuma, et à la fratrie Gupta (Atul, Rajesh « Tony », Ajay), ces entrepreneurs indiens au cœur du scandale politico-financier qui secoue le pays. Repéré très tôt par les Gupta, embauché et choyé par leur entreprise d’informatique Sahara Computers, il est soupçonné d’avoir été utilisé par cette puissante famille indienne pour influencer le plus haut sommet de l’Etat.

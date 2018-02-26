@@ -4,7 +4,7 @@ name: Jean-Jacques Lumumba
 title: Des révélations bancaires qui fragilisent le régime de Kabila
 ---
 
-<img style="width: 100%;" class="center-block" src="/img/studies/lumumba.jpg">
+<img style="width: 100%;" class="center-block" src="/assets/img/studies/lumumba.jpg">
 
 Si le régime déjà partiellement affaibli du Président de la République démocratique du Congo Joseph Kabila cède un jour, l’histoire montrera que le courage déterminant d’un jeune cadre bancaire, Jean-Jacques Lumumba, y est pour quelque chose.
 

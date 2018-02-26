@@ -12,7 +12,7 @@ introduction: Sygnia CEO Magda Wierzycka rips into software giant over bizarre c
 ---
 
 
- <img class="img-responsive img-post center-block" src="/img/posts/trillian-guptas.jpg" title="Ajay and Atul Gupta. Photo: Muntu Vilakazi/Gallo images"> 
+ <img class="img-responsive img-post center-block" src="/assets/img/posts/trillian-guptas.jpg" title="Ajay and Atul Gupta. Photo: Muntu Vilakazi/Gallo images"> 
 
 <br>
 Within 24 hours of coming out with an explosive [chronology](http://pplaaf.in/trillian-bg/) of her experience at Trillian Capital Partners and its associated companies, Bianca Goodson found herself out of a job last week.

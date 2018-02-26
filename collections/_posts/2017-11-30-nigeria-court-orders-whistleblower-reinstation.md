@@ -9,7 +9,7 @@ introduction: A former Principal Administrative officer had been suspended by hi
 tag: [pressrelease, Nigeria]
 ---
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/saftu.jpg">  -->
 <!-- <br> -->
 
 (Abuja, November 30th, 2017) – The court decision to recall and reinstate Aaron Kaase, the suspended  Principal Administrative officer with the Police Services Commission (PSC) for having disclosed alleged fraud against the PSC’s current Chair - Mike Okiro, sends a strong signal to whistleblowers in Nigeria, said the Platform to Protect Whistleblowers in Africa (PPLAAF) today. Kaase’s disclosure was made to the relevant authorities in Nigeria. Kaase’s case was won on the basis of labor law rather than whistleblower protection. 

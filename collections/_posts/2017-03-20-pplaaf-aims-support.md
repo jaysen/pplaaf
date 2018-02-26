@@ -8,7 +8,7 @@ excerpt: Whistle-blowers in Africa under threat have little legal protection, sa
 introduction: Whistle-blowers in Africa under threat have little legal protection, says lawyer representing Assange, Snowden and more.
 
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/bourdon.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/bourdon.jpg">
 <br>
 As demand for the truth soars across the world, with confidence in media and governments plummeting, whistle-blowers are having quite a moment from the Global North to South.
 

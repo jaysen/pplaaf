@@ -9,7 +9,7 @@ introduction: Questions à... Henri Thulliez. Défenseur français des droits de
 category: fr
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/pplaaf-fr-logo.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/pplaaf-fr-logo.jpg">
 
 <br>
 **Pourquoi créer une plateforme de lanceur d’alerte et qui est à l’initiative de ce projet ?**

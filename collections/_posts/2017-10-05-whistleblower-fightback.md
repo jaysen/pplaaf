@@ -11,7 +11,7 @@ introduction: Former Trillian CEO launches defamation suit against the company o
 ---
 
 
- <img class="img-responsive img-post center-block" src="/img/posts/nenewhistle.jpg" title="Photo: President Jacob Zuma and the then Minister of Finance, Nhlanhla Nene, 6 October 2014 (Greg Nicolson)"> 
+ <img class="img-responsive img-post center-block" src="/assets/img/posts/nenewhistle.jpg" title="Photo: President Jacob Zuma and the then Minister of Finance, Nhlanhla Nene, 6 October 2014 (Greg Nicolson)"> 
 
 <br>
 For months she was backed into a corner, isolated and waging a lone and costly battle against the financial might of her former boss at Trillian Capital Partners.

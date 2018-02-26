@@ -10,7 +10,7 @@ introduction: Why SAFTU has laid fraud, theft, corruption and money laundering c
 
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg"> 
+<img class="img-responsive img-post center-block" src="/assets/img/posts/saftu.jpg"> 
 
 <br>
 When the South African Federation of Trade Unions (SAFTU) was launched in April this year we promised that South Africa would never be the same again. We were determined that the labour and political scene would change for the better and resolved that political campaigns would be taken up by our new, independent, militant and revolutionary trade union federation.

@@ -9,7 +9,7 @@ introduction: Après Conakry, Nouakchott et Dakar, des formations auront lieu da
 tag: featured
 category: fr
 ---
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/cyber-journ.jpg"> -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/cyber-journ.jpg"> -->
 
 (Dakar, le 10 octobre 2017) - En partenariat avec la Plateforme de protection des lanceurs d’alerte en Afrique ([PPLAAF](https://pplaaf.org/fr/)), [Africtivistes](http://www.africtivistes.org/) a formé 30 journalistes, blogueurs et activistes mauritaniens à Nouakchott du 23 au 25 septembre 2017. En juillet, un séminaire similaire s’était tenu à Conakry. Cette formation s’inscrit dans le cadre du programme « Afrique Médias Cybersécurité » (AMC). 
 

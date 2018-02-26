@@ -8,7 +8,7 @@ excerpt: South Africa&#58 Authorities to seize illicitly gained Gupta-linked ass
 tag: [pressrelease, featured]
 ---
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/saftu.jpg">  -->
 <!-- <br> -->
 ## South Africa: Authorities to seize illicitly gained Gupta-linked assets
 ### Whistleblower testimonies and leading labor union help drive asset recovery of stolen resources from state-owned entities

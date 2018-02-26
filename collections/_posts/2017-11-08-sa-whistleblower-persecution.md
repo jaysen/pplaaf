@@ -10,7 +10,7 @@ introduction: A whistleblower who spoke out about how powerful business interest
 
 ---
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/mckinsey-4.jpg">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/mckinsey-4.jpg">  -->
 
 
 Mosilo Mothepu, a former executive at Trillian Capital, a company that was owned by an associate of the powerful Gupta family until this year, confidentially told a state ombudsman last year that the firm had known in advance that President Jacob Zuma would sack Nhlanhla Nene as finance minister in 2015.

@@ -8,7 +8,7 @@ excerpt: Cornered by the financial might of her former bosses of a Gupta-linked 
 
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/bourdon-mg.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/bourdon-mg.jpg">
 
 <br>
 Cornered by the financial might of her former bosses of a Gupta-linked company, the woman who spilled the beans on Nenegate has landed the backing of an international whistle-blower champion.
@@ -81,7 +81,7 @@ The PPLAAF had lined up “serious money for this particular case” and would b
 
 He added that the organisation’s involvement should also serve “as a warning to billionaires” who resort to legal tactics to throttle whistle-blowers that such moves can backfire and draw much more attention to the very information they may seek to suppress.
 
-<img class="img-responsive img-post center-block" src="/img/posts/snowden.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/snowden.jpg">
 <br>
 
 ## Disclosers are left ducking for cover

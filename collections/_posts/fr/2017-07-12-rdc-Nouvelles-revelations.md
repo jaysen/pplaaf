@@ -9,7 +9,7 @@ introduction: Les enquêtes ont été menées grâce aux documents transmis à P
 tag: [featured, pressrelease]
 category: fr
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/lumumba-l.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/lumumba-l.jpg">
 
 <br>
 (Paris, le 12 juillet 2017) – Les révélations exclusives sur des sociétés congolaises proches du chef de l’Etat publiées par [Le Monde](http://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html) à la suite d’une enquête de plusieurs mois réalisée par PPLAAF, des journalistes de [l’OCCRP](https://www.occrp.org/en) et du Monde, n’ont été rendues possibles que grâce aux documents transmis à PPLAAF par un lanceur d’alerte, a déclaré [PPLAAF](https://pplaaf.org/fr/) (Plateforme de protection des lanceurs d’alerte en Afrique) aujourd’hui.

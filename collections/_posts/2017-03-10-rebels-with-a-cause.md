@@ -9,7 +9,7 @@ excerpt: A group of activists, lawyers and artists have launched a platform to h
 introduction: In many African countries, the secretive and self-serving deeds of political and business elites have come to light thanks only to whistleblowers.
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/githongo.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/githongo.jpg">
 
 <br>
 In Kenya, former journalist John Githongo exposed fraudulent military equipment deals and other swindles in a series of explosive exposures; Abdullahi Hussein secretly filmed human rights atrocities in Ethiopia; Jean-Jacques Lumumba, a Congolese banker, shed light on serious financial embezzlement involving the ruling Kabila family.

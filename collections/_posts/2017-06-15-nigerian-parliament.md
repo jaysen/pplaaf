@@ -38,6 +38,6 @@ All these requirements were included in the bill drafted by PPLAAF. PPLAAF will 
 [PPLAAF](https://pplaaf.org/faq.html) is a Senegalese NGO which was created in March 2017 to provide the full spectrum of needs catered specifically to whistleblowers: end-to-end encryption communication, free legal advice and legal representation, designed assistance with the press and research and advocacy to help authorities to adopt strong laws to protect whistleblowers. 
 
 <br>
-<img class="img-responsive img-post center-block" src="/img/posts/nigeria-seminar-1.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/nigeria-seminar-1.jpg">
 
 <br>

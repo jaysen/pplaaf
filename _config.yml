@@ -42,3 +42,16 @@ collections:
   # studies-fr:
   #   output: true
   #   permalink: fr/:name.html
+
+
+  
+# Assets configuration
+assets:
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - assets/img
+    - assets/javascripts
+    - assets/css

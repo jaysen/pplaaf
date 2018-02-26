@@ -10,7 +10,7 @@ introduction: Democracy Works Foundation (DWF), PPLAAF, Wits School of Governanc
 
 
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/democracy-defenders.jpg" title="©Oscar-Gutierrez - oscargutierrez.com">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/democracy-defenders.jpg" title="©Oscar-Gutierrez - oscargutierrez.com">
 
 <br>
 [Democracy Works Foundation](http://democracyworks.org.za/) (DWF), Platform for the Protection of Whistleblowers (PPLAAF), [Wits School of Governance](https://www.wits.ac.za/wsg/) (WSG) and [Business Leadership South Africa](https://www.blsa.org.za/) (BLSA) hosted a public dialogue centering on the theme of Democracy Defenders. The event on 31 July was held at the Donald Gordon Auditorium and comprised a panel of legal, political and intellectual heavyweights including former South African Public Protector, Thuli Madonsela; renowned whistleblower advocate and lawyer to Edward Snowden, William Bourdon, William Gumede, Executive Chairperson of DWF and moderated by Thandiwe Matthews. Book-ending the event was critical reflections by Wits Vice-Chancellor, Adam Habib and former Finance Minister, Pravin Gordhan.

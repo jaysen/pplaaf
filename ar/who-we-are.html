@@ -20,7 +20,7 @@ layout: default-ar
 			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="/img/management/{{ member.image }}">
+				<img class="center-block" src="/assets/img/management/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -43,7 +43,7 @@ layout: default-ar
 			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="/img/board/{{ member.image }}">
+				<img class="center-block" src="/assets/img/board/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -56,7 +56,7 @@ layout: default-ar
 				<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
 					<div class="ngo-box">
 						{% if ngo.image %}
-						<img class="center-block" src="/img/ngo/{{ ngo.image }}">
+						<img class="center-block" src="/assets/img/ngo/{{ ngo.image }}">
 						{% endif %}
 						{% unless ngo.image %}
 						<div class="ngo-name">{{ ngo.name }}</div>

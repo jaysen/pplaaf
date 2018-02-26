@@ -9,7 +9,7 @@ introduction: Falamata Aoumi, lanceuse d’alerte nigérienne, a raconté à PPL
 tag: featured
 category: fr
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/falmata-aouami.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/falmata-aouami.jpg">
 
 <br>
 De Edouard Snowden, on a pu dire qu'il est l'homme qui s'est sacrifié pour nos libertés. De Falamata Aouami, il faudra dire qu'elle a été sacrifiée parce qu’elle cherchait à bien faire son travail. 

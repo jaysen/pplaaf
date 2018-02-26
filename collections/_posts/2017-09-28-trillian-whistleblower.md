@@ -11,7 +11,7 @@ introduction: Bianca Goodson, the former chief executive of a Gupta-linked consu
 ---
 
 
- <img class="img-responsive img-post center-block" src="/img/posts/trillian-bg.jpg"> 
+ <img class="img-responsive img-post center-block" src="/assets/img/posts/trillian-bg.jpg"> 
 
 <br>
 **Bianca Goodson has released a detailed statement and 65 annexures, charging that her former firm, Trillian Management Consulting, facilitated access to decision makers for consulting multinationals McKinsey and Oliver Wyman. In return for this political capital, she states, Trillian was to get up to half the fees in lucrative consulting contracts with state entities. Goodson initially started preparing her statement for the expected parliamentary inquiry into state capture, but after repeated delays decided to [make it public](https://pplaaf.in/trillian-bg) via the Platform for the Protection of Whistleblowers in Africa.**

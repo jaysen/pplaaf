@@ -3,7 +3,7 @@ layout: study-en
 name: Jean-Jacques Lumumba
 title: Bank Revelations Weaken Kabila’s Hold on Power
 ---
-<img style="width: 100%;" class="center-block" src="/img/studies/lumumba.jpg">
+<img style="width: 100%;" class="center-block" src="/assets/img/studies/lumumba.jpg">
 
 If the teetering rule of President Joseph Kabila of the Democratic Republic of Congo eventually comes to an end, history will show that the courage of a young bank executive named Jean-Jacques Lumumba was among the tipping points.
 

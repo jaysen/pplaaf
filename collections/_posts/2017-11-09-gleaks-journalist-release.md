@@ -10,7 +10,7 @@ tag:
 
 ---
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/gupta-leaks-1.png">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/gupta-leaks-1.png">  -->
 <!-- <br> -->
 
 The [Organised Crime and Corruption Reporting Project](http://www.occrp.org/), [Daily Maverick](http://www.dailymaverick.co.za/), [amaBhungane Centre for Investigative Journalism](http://www.amabhungane.co.za/) and [Platform for the Protection of Whistleblowers in Africa](http://www.pplaaf.org/) have launched today an online facility for sharing a large data trove at the centre of an international corruption and money laundering scandal.

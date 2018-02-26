@@ -11,7 +11,7 @@ tag: [pressrelease]
 ---
 
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/pressrelease.png">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/pressrelease.png">  -->
 <!-- <br> -->
 
 **(Johannesburg – 29 September 2017) – On Wednesday 27th September, Bianca Goodson, former CEO of Trillian Management Consulting - one of several entities involved in South Africa’s “state capture” scandal - opted to make a public disclosure bypassing whistleblower immunity. Her statement was published with relevant annexures about Trillian’s role on a [PPLAAF site](http://pplaaf.in/trillian-bg/)**

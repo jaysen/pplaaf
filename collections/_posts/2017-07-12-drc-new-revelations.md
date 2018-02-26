@@ -10,7 +10,7 @@ tag: [pressrelease]
 
 
 ---
-<img class="img-responsive img-post center-block" src="/img/posts/lumumba-l.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/lumumba-l.jpg">
 
 <br>
 (Paris, 12 July 2017) – The exclusive revelations concerning Congolese companies close to the Head of State, published by Le Monde following an investigation lasting several months conducted by PPLAAF and journalists from [OCCRP](https://www.occrp.org/en) and [Le Monde](http://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html), would have been impossible had it not been for the [documents](http://lumumbapapers.info/) sent to PPLAAF by a whistleblower, [PPLAAF](https://pplaaf.org/jean-jacques-lumumba.html) (Plateforme de protection des lanceurs d’alerte en Afrique - Platform to Protect Whistleblowers in Africa) announced today.

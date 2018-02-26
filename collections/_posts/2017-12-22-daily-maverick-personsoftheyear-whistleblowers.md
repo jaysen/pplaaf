@@ -10,7 +10,7 @@ introduction: In 2017, the horrifying extent of State Capture finally became cle
 tag: [featured, SouthAfrica]
 ---
 
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/saftu.jpg">  -->
+<!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/saftu.jpg">  -->
 <!-- <br> -->
 
 ## Mosilo Mothepu: ‘They messed with the wrong black woman’
@@ -63,7 +63,7 @@ But despite this hypothetical armour, prospective whistle-blowers remain justifi
 
 ## Bianca Goodson: Reclaiming power after a journey of self-inflicted paranoia
 
-<img class="img-responsive img-post" src="/img/posts/bianca-goodson.jpg">
+<img class="img-responsive img-post" src="/assets/img/posts/bianca-goodson.jpg">
 
 With every headline about State Capture, Bianca Goodson slipped deeper into a state of confusion and self-doubt. There she was, privy to much of Trillian’s dirty little secrets, yet utterly petrified to breathe a word.
 
@@ -139,7 +139,7 @@ Brkic says that protecting the identity of the #GuptaLeaks whistle-blowers was h
 
 ## Suzanne Daniels: Not your average whistle-blower
 
-<img class="img-responsive img-post" src="/img/posts/suzanne-daniels-eskom.png">
+<img class="img-responsive img-post" src="/assets/img/posts/suzanne-daniels-eskom.png">
 
 “Suzanne Daniels has that ‘don’t mess with me’ kind of thing about her.” So says a member of the public after watching her on TV giving evidence in the parliamentary hearing into Eskom.
 

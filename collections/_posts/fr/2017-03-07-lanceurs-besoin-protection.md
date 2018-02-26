@@ -10,7 +10,7 @@ introduction: Un collectif de personnalités emmenées par l’avocat William Bo
 category: fr
 ---
 
-<img class="img-responsive img-post center-block" src="/img/posts/pplaaf-fr-logo.jpg">
+<img class="img-responsive img-post center-block" src="/assets/img/posts/pplaaf-fr-logo.jpg">
 
 <br>
 Une semaine avant que les Ghanéens ne se rendent aux urnes, Mabel Simpson, un couturier de 32 ans d’Accra, déclarait à un journaliste : _« Je pense que le Ghana a besoin d’un leader qui se batte contre la corruption. »_ Le 7 décembre 2016, le président en exercice perdit les élections, notamment en raison du mécontentement des citoyens dans la lutte anti-corruption du gouvernement.
