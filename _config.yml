@@ -13,36 +13,29 @@ exclude:
 
 collections_dir: collections
 collections:
-  ngos-en:
   board-en:
+  board-fr:
+  board-pt:
   management-en:
-  studies-en:
-  management-en:
+  management-fr:
+  management-pt:
+  ngos-en:
+  ngos-fr:
+  profiles-fr:
+    output: true
+    permalink: fr/:name.html
+  profiles-pt:
+    output: true
+    permalink: pt/:name.html
   profiles-en:
     output: true
     permalink: :name.html
   studies-en:
     output: true
     permalink: :name.html
-  ngos-fr:
-  board-fr:
-  management-fr:
-  profiles-fr:
-    output: true
-    permalink: fr/:name.html
   studies-fr:
     output: true
     permalink: fr/:name.html
-  # ngos-pt:
-  board-pt:
-  management-pt:
-  profiles-pt:
-    output: true
-    permalink: pt/:name.html
-  # studies-fr:
-  #   output: true
-  #   permalink: fr/:name.html
-
 
   
 # Assets configuration
@@ -53,5 +46,5 @@ assets:
   digest: true
   sources:
     - assets/img
-    - assets/javascripts
+    - assets/js
     - assets/css
