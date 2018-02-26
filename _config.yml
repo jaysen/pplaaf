@@ -11,6 +11,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+collections_dir: collections
 collections:
   ngos-en:
   board-en:
