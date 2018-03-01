@@ -42,6 +42,9 @@ collections:
     output: true
     permalink: fr/:name.html
 
+  whistleblowers-en:
+    output: true
+    permalink: whistleblowers/:name.html
   
 # Assets configuration
 assets:
@@ -52,4 +55,4 @@ assets:
   sources:
     - assets/img
     - assets/js
-    - _sass
+    - assets/css
