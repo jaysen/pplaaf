@@ -45,7 +45,10 @@ collections:
   whistleblowers-en:
     output: true
     permalink: whistleblowers/:name.html
-  
+  whistleblowers-fr:
+    output: true
+    permalink: whistleblowers/fr/:name.html
+    
 # Assets configuration
 assets:
   compress:

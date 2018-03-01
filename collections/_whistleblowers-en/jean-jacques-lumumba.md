@@ -1,11 +1,11 @@
 ---
-layout: wblower-en
+layout: whistleblower-en
 name: Jean-Jacques Lumumba
 title: Bank Revelations that Weaken DRC’s President’s Hold on Power
 ---
 
 <img class="img-right" style="max-width:500px;" src="/assets/img/studies/lumumba.jpg">
-> “*I am one of the first whistleblowers in my
+> “I am one of the first whistleblowers in my
 country to be supported by PPLAAF. I am very
 happy with the legal protection and above all,
 the moral comfort it has given me. The action
@@ -17,7 +17,7 @@ understood the need for the protection of
 whistleblowers in the process of
 democratization of African countries, a
 guarantee of stability and revival of economic
-development.*”
+development.”
 
 “_The greed of some politicians is so huge that they have taken Congo hostage. People are dying
 and are being tortured. Many cannot speak anymore,” [Jean-Jacques Lumumba told in an
@@ -50,9 +50,7 @@ activities of BGFI DRC largely based on internal documents disclosed by Lumumba.
 documents reveal the bank’s involvement in corruption, illegal financing, and embezzlement.
 [The papers also show](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"}, suspicious transactions between the
 
-Since January 2017, PPLAAF has been working closely with Lumumba, providing him with
-pro-bono legal counsel, analyzing and researching the documents he provided, and using
-forensic researchers to discover more corruption affairs embedded in President Kabila’s
+Since January 2017, PPLAAF has been working closely with Lumumba, providing him with pro-bono legal counsel, analyzing and researching the documents he provided, and using forensic researchers to discover more corruption affairs embedded in President Kabila’s
 ventures.
 
 Investigations conducted by [PPLAAF](https://pplaaf.org/){:target="_blank"}, [Le Monde](http://www.lemonde.fr/){:target="_blank"} and [OCCRP](https://www.occrp.org/en){:target="_blank"} showed how public money was
