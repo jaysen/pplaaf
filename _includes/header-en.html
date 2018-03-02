@@ -27,10 +27,10 @@
         </li>
         <li><a href="{{ site.baseurl }}/send-us-info.html">Send us info</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Case studies <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Whistleblowers<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            {% for study in site.studies-en %}
-            <li><a href="{{ study.url }}">{{ study.name }}</a></li>
+            {% for wb in site.whistleblowers-en %}
+            <li><a href="{{ wb.url }}">{{ wb.name }}</a></li>
             {% endfor %}
           </ul>
         </li>
@@ -54,8 +54,6 @@
             <li><a href="{{ site.baseurl }}/ar"><img src="{{ site.baseurl }}/assets/img/flags/AR.png"> العربية</a></li>
           </ul>
         </li>
-        <li><a class="btn-social" href="https://twitter.com/PPLAAF"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a class="btn-social" href="https://facebook.com/PPLAAF/"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       </ul>
     </div>
   </div>

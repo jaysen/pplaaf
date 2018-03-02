@@ -5,7 +5,7 @@ url: "https://pplaaf.org"
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 
 exclude:
@@ -42,7 +42,13 @@ collections:
     output: true
     permalink: fr/:name.html
 
-  
+  whistleblowers-en:
+    output: true
+    permalink: whistleblowers/:name.html
+  whistleblowers-fr:
+    output: true
+    permalink: whistleblowers/fr/:name.html
+    
 # Assets configuration
 assets:
   compress:
@@ -52,4 +58,4 @@ assets:
   sources:
     - assets/img
     - assets/js
-    - _sass
+    - assets/_sass
