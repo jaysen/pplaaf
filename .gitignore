@@ -1,7 +1,6 @@
 *~
 .DS_Store
 .analysis
-.bundle/
 .byebug_history
 .jekyll-metadata
 .ruby-gemset
@@ -10,7 +9,6 @@
 /test/source/file_name.txt
 /vendor
 *.gem
-Gemfile.lock
 _site/
 bin/
 bbin/
