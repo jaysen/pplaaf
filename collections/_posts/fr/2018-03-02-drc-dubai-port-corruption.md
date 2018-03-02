@@ -1,6 +1,6 @@
 ---
 layout: post-fr
-title: Press Release - RDC/Dubaï - Le projet de construction d’un nouveau port entaché par des accusations de corruption
+title: Press Release&#58 RDC/Dubaï&#58 Le projet de construction d’un nouveau port entaché par des accusations de corruption
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.png
@@ -43,13 +43,11 @@ By December 21st, 2017, the United States adopted [sanctions](https://home.treas
 * [http://bananaportpapers.info/](http://bananaportpapers.info){:target="_blank"} (French)
 * [http://bananaportpapers.info/en.html](http://bananaportpapers.info/en.html){:target="_blank"} (English)
 
-<br>
-
 ### If you would like to contribute to PPLAAF as a donor or philanthropist, please email:
 [info@pplaaf.org](mailto:info@pplaaf.org) 
 
 ### For more information on PPLAAF, please visit:
-https://pplaaf.org
+<https://pplaaf.org>
 
 ### To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>

@@ -1,10 +1,10 @@
 ---
 layout: post-en
-title: Press Release - DRC / Dubai A project to build a new port tainted by corruption charges
+title: Press Release&#58 DRC/Dubai&#58 New port project tainted by corruption charges
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.png
-excerpt: PPLAAF reveals through whistleblowers revelations the underside of negotiations between the DRC government and Dubai Port World
+excerpt: PPLAAF reveals whistleblowers revelations of negotiations between the DRC government and Dubai Port World
 tag: [pressrelease, featured, DRC]
 ---
 
@@ -42,10 +42,8 @@ Le 21 décembre 2017, les Etats-Unis ont ainsi adopté des [sanctions](https://h
 * [http://bananaportpapers.info/](http://bananaportpapers.info/){:target="_blank"} (Français)
 * [http://bananaportpapers.info/en.html](http://bananaportpapers.info/en.html){:target="_blank"} (Anglais)
 
-<br>
-
 ### Pour plus d’informations sur PPLAAF, veuillez consulter :
-https://pplaaf.org
+<https://pplaaf.org>
 
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>
