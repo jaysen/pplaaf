@@ -1,13 +1,21 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+body {
+	font-family: 'Lora', 'Times New Roman', serif;
+	font-size: 17px;
+}
 
 h1, h2, h3, h4 {
-	font-family: 'Slabo 27px', serif;
+	font-family: 'Lora', 'Times New Roman', serif;
+	font-weight: 800;
 }
 
 p {
-	text-align: justify;
+	// text-align: justify;
+	line-height: 1.5;
+	margin: 30px 0;
 }
 
 .img-right {
@@ -231,11 +239,12 @@ p {
 	}
 	.container {
 		&.title {
+			margin-top: -30px;
 			background-color: #a94442;
 			background-image: url(../img/diagonal-noise.png);
 			color: #fff;
 			h1 {
-				margin: 30px 0;
+				margin: 20px 0;
 			}
 		}
 		&.content {
