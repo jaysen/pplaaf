@@ -7,7 +7,7 @@ layout: default-en
 		<div class="container">
 			<div class="row">
 			  <div class="col-md-5">
-			  	<img class="img-responsive logo" src="/img/logo-3.1-en.png" alt="PPLAAF logo" />
+			  	<img class="img-responsive logo" src="/assets/img/logo-3.1-en.png" alt="PPLAAF logo" />
 			  	<div class="hidden-xs hidden-sm">
 				  	<hr>
 				  	<h3 id="title">&nbsp;</h3>
@@ -1361,7 +1361,7 @@ layout: default-en
 				{% if tag == "featured" %}
 				<div class="post-block col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					{% if post.image %}
-						<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
+						<a href="{{ post.url }}"><img class="post-image img-responsive" src="/assets/img/posts/{{ post.image }}"></a>
 					{% endif %}
 					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 					<h6>{{ post.author }} {{ post.date  | date_to_long_string }} 

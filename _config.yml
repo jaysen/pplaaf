@@ -4,40 +4,58 @@ url: "https://pplaaf.org"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
+theme: minima
+plugins:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
 
+collections_dir: collections
 collections:
-  ngos-en:
   board-en:
+  board-fr:
+  board-pt:
+    
   management-en:
-  studies-en:
-  management-en:
+  management-fr:
+  management-pt:
+
+  ngos-en:
+  ngos-fr:
+
   profiles-en:
     output: true
-    permalink: :name.html
-  studies-en:
-    output: true
-    permalink: :name.html
-  ngos-fr:
-  board-fr:
-  management-fr:
+    permalink: :name.html    
   profiles-fr:
     output: true
     permalink: fr/:name.html
-  studies-fr:
-    output: true
-    permalink: fr/:name.html
-  # ngos-pt:
-  board-pt:
-  management-pt:
   profiles-pt:
     output: true
     permalink: pt/:name.html
-  # studies-fr:
-  #   output: true
-  #   permalink: fr/:name.html
+
+  studies-en:
+    output: true
+    permalink: :name.html
+  studies-fr:
+    output: true
+    permalink: fr/:name.html
+
+  whistleblowers-en:
+    output: true
+    permalink: whistleblowers/:name.html
+  whistleblowers-fr:
+    output: true
+    permalink: whistleblowers/fr/:name.html
+    
+# Assets configuration
+assets:
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - assets/img
+    - assets/js
+    - assets/_sass
