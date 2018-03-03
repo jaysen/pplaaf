@@ -7,6 +7,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile
@@ -14,6 +15,7 @@ exclude:
 
 collections_dir: collections
 collections:
+
   board-en:
   board-fr:
   board-pt:
