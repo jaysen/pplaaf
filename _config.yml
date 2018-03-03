@@ -1,6 +1,7 @@
-title: Plateforme de Protection des Lanceurs d'Alerte en Afrique
+title: PPLAAF
 email: info@pplaaf.org
-url: "https://pplaaf.org"
+# url: "https://pplaaf.org"
+description: Platform for the Protection of Whistleblowers in Africa
 
 # Build settings
 markdown: kramdown
