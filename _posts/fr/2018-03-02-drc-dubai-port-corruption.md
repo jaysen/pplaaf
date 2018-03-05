@@ -32,33 +32,28 @@ La RDC traverse actuellement une grave crise. L’accord politique conclu fin 20
 
 « Alors que la répression en RDC s’intensifie et que des violations des droits de l’Homme sont commises quotidiennement, des multinationales et des hommes d’affaires étrangers s’accommodent de la situation pour continuer à s’enrichir », a déclaré [Henri Thulliez](https://twitter.com/HenriThulliez){:target="_blank"}, membre du Conseil d’administration de PPLAAF. « La stratégie du chaos que serait en train de mettre en place un président qui s’accroche au pouvoir, ne semble pas refroidir les ardeurs lucratives de certaines sociétés ».  
 
+Le régime congolais est régulièrement mis en cause par des médias et des organisations non gouvernementales pour de sérieux faits de corruption et pour la mainmise de l’entourage de Kabila sur l’économie congolaise. En juillet dernier, PPLAAF avait notamment [montré](http://lumumbapapers.info/){:target="_blank"} comment 42 millions de dollars de la Banque centrale congolaise avaient été détournés par la société privée EGAL pour notamment permettre l’achat d’animaux sauvages au bénéfice de la Ferme Espoir, une société appartenant à Joseph Kabila. 
 
+Le 21 décembre 2017, les Etats-Unis ont ainsi adopté des [sanctions](https://home.treasury.gov/news/press-releases/sm0243){:target="_blank"} contre plusieurs acteurs économiques accusés de corruption, dont Dan Gertler, un milliardaire israélien ayant amassé des centaines de millions de dollars grâce à des marchés opaques portant sur les mines et les hydrocarbures en RDC. D’autres personnes soupçonnées de corruption sont susceptibles d’être sanctionnées ces prochaines semaines. 
 
-The Congolese regime is regularly [questioned](https://www.hrw.org/news/2017/10/10/dr-congo-us-eu-should-expand-targeted-sanctions){:target="_blank"} by the media and by non-governmental organizations for acts of severe corruption and for the Kabila's entourage’s control on the Congolese economy. Last July, PPLAAF [showed how $42 million have been diverted](http://lumumbapapers.info/){:target="_blank"} from the Congolese Central Bank by the private company EGAL to allow the purchase of wildlife animals for the benefit of Ferme Espoir, a company owned by President Kabila.
+[PPLAAF](https://pplaaf.org){:target="_blank"} est une organisation non gouvernementale sénégalaise créée en mars 2017 proposant un spectre entier de solutions pour pourvoir aux différents besoins des lanceurs d’alerte : encryptage d’un bout à l’autre de la communication, soutien juridique gratuit en conseils ou en représentation légale contre des employeurs ou autre, assistance continue pour protéger le lanceur d’alerte dans la divulgation de l’information au public, développement de législations protégeant les lanceurs d’alerte. 
 
-By December 21st, 2017, the United States adopted [sanctions](https://home.treasury.gov/news/press-releases/sm0243){:target="_blank"} against several economic actors in the DRC who were accused of corruption, including Dan Gertler, an Israeli billionaire who accumulated hundreds of millions of dollars through shady markets in the energy and mining sectors. Other individuals suspected of corruption are likely to be sanctioned in the coming weeks.
+### Pour accéder aux documents mis en ligne par PPLAAF, veuillez consultez :
+* [http://bananaportpapers.info/](http://bananaportpapers.info/){:target="_blank"} (Français)
+* [http://bananaportpapers.info/en.html](http://bananaportpapers.info/en.html){:target="_blank"} (Anglais)
 
-[PPLAAF](https://pplaaf.org){:target="_blank"} is a Senegalese non-governmental organization created in March 2017 with hubs around Africa. It provides support to assist whistleblowers including encrypted communication, free legal advice or representation against employers, continued assistance to protect the whistleblower in the disclosure of information to the public, the development of legislation to protect whistleblowers and legal cases based on whistleblower information. 
-
-<br>
-### To access the documents posted by PPLAAF, please consult:
-* [http://bananaportpapers.info/](http://bananaportpapers.info){:target="_blank"} (French)
-* [http://bananaportpapers.info/en.html](http://bananaportpapers.info/en.html){:target="_blank"} (English)
-
-### If you would like to contribute to PPLAAF as a donor or philanthropist, please email:
-[info@pplaaf.org](mailto:info@pplaaf.org) 
-
-### For more information on PPLAAF, please visit:
+### Pour plus d’informations sur PPLAAF, veuillez consulter :
 <https://pplaaf.org>
 
-### To follow PPLAAF, follow its profiles:
+### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
 
-### For further information, please contact:
-- In Paris, William Bourdon (French, English): [w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com) or + 33 1 42 60 32 60
-- In Paris, Henri Thulliez (French, English): [henri@pplaaf.org](mailto:henri@pplaaf.org) or + 33 7 62 68 49 44
-- In Durban, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76 
+### Pour plus d’informations, veuillez contacter :
+- A Paris, William Bourdon (français, anglais) : [w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com) ou + 33 1 42 60 32 60
+- A Paris, Henri Thulliez (français, anglais) : [henri@pplaaf.org](mailto:henri@pplaaf.org) ou + 33 7 62 68 49 44
+- A Durban, Khadija Sharife (anglais) : [ksharife@gmail.com](mailto:ksharife@gmail.com) 
+
 
 
 
