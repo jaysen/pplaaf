@@ -1,5 +1,6 @@
 *~
 .DS_Store
+.vscode
 .analysis
 .byebug_history
 .jekyll-metadata
