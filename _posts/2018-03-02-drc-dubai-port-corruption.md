@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: PPLAAF révèle grâce à des lanceurs d’alerte les dessous des négociations entre le gouvernement de la RDC et Dubai Port World
 tag: [pressrelease, featured, DRC]
-category: fr
+
 ---
 
 (Paris, le 2 mars 2018) – Alors que la République démocratique du Congo (RDC) traverse une grave crise politique et humanitaire, son gouvernement est sur le point de conclure un contrat de plusieurs centaines de millions de dollars entaché d’allégations de corruption avec Dubaï Port World (DPW), a déclaré la Plateforme de Protection des Lanceurs d’Alerte en Afrique ([PPLAAF](https://pplaaf.org/){:target="_blank"}).

@@ -12,7 +12,7 @@ layout: default-fr
 			<span id="latestnews-anchor" class="anchor"></span>
             <p><br></p>
             {% for post in site.posts %}
-            {% if post.layout == "post-fr" %}
+            {% if post.layout == "post-fr" and post.category == "fr" %}
             <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/assets/img/posts/{{ post.image }}"></a>

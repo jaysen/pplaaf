@@ -776,7 +776,10 @@ layout: default-fr
 		<section id="latestnews">
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Actualités à la Une</h1>
-			{% for post in site.posts %} {% for tag in post.tags %} {% if post.layout == "post-fr" %} {% if tag == "featured" %}
+			{% for post in site.posts %} 
+			{% for tag in post.tags %} 
+			{% if post.layout == "post-fr" and post.category == "fr" %}
+			{% if tag == "featured" %}
 			<div class="post-block col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 				<a href="{{ post.url }}">
@@ -795,7 +798,10 @@ layout: default-fr
 				<br>
 				<br>
 			</div>
-			{% endif %} {% endif %} {% endfor %} {% endfor %}
+			{% endif %} 
+			{% endif %} 
+			{% endfor %} 
+			{% endfor %}
 		</section>
 
 		<section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
