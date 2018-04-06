@@ -5,7 +5,7 @@ author:
 origin: This article first appeared in <a href="https://carteblanche.dstv.com/trillian-bianca-goodson-speaks/" target="_blank">Carte Blanche</a>
 excerpt_separator: <!--more-->
 image: carteblanche2.jpg
-excerpt: In an in-depth interview, former Trillian executive, Bianca Goodson lifts the lid on the inner workings of the Gupta empire, revealing how Gupta-linked companies planned to siphon billions from State-owned enterprises. Goodson also opens up to Carte Blanche about the secret life of a whistle-blower – the fear, anxiety and depression associated with speaking up.
+excerpt: In an in-depth interview, former Trillian executive, Bianca Goodson lifts the lid on the inner workings of the Gupta empire, revealing how Gupta-linked companies planned to siphon billions from State-owned enterprises.
 introduction:
 tag: [featured, SouthAfrica]
 ---
