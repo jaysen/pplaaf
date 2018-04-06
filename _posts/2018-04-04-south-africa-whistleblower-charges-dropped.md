@@ -5,6 +5,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.png
 excerpt: Mosilo Mothepu was prosecuted after her former employer accused her of having stolen confidential documents
+introduction: Mosilo Mothepu was prosecuted after her former employer accused her of having stolen confidential documents
 tag: [pressrelease, featured, South Africa]
 ---
 
