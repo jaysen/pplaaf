@@ -1,15 +1,15 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,600,800|Raleway:600,800,900');
 
 body {
 	font-family: 'Lora', 'Times New Roman', serif;
-	font-size: 17px;
+	font-size: 16px;
 }
 
 h1, h2, h3, h4 {
 	font-family: 'Lora', 'Times New Roman', serif;
-	font-weight: 800;
+	font-weight: 600;
 }
 
 p {
@@ -24,35 +24,45 @@ p {
 	padding: 5px 5px 2px 15px
 }
 
-@media (min-width: 1200px) {
+
+
+@media (min-width: 1180px) {
 	.container {
-	  width: 900px;
+		width: 900px !important;
 	}
 }
 
-.navbar-default {
-	background-color: #fff;
-	border-bottom: 2px solid #ccc;
-	border-top: none;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	z-index: 1000;
-	border-radius: 0;
-}
 
 @media (min-width: 768px) {
 	.navbar .navbar-nav {
 	  display: inline-block;
 	  float: none;
 	}
+	.navbar .navbar-collapse {
+		text-align: center;
+	}
 }
 
 @media (min-width: 768px) {
-	.navbar .navbar-collapse {
-	  text-align: center;
+	.navbar-nav > li > a {
+		padding: 15px 10px;
+		font-size:12px;
 	}
 }
+@media (min-width: 886px) {
+	.navbar-nav > li > a {
+		padding: 15px 15px;
+		font-size:12px;
+	}
+}
+@media (min-width: 1180px) {
+	.navbar-nav > li > a {
+		padding: 15px 20px;
+		font-size:13px;
+	}
+}
+
+
 
 .navbar {
 	margin-bottom: 0;
@@ -67,23 +77,26 @@ p {
 	}
 }
 
-@media (min-width: 768px) {
-	.navbar > .container {
-	    width: 95%;
-	}
-	.navbar-nav > a {
-		padding: 15px 12px;
-	}
+.navbar-default {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	border-top: none;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1000;
+	border-radius: 0;
+	font-family: "Raleway", Sans-Serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700 !important;
 }
 
-@media (min-width: 1200px) {
-	.navbar > .container {
-	  width: 950px;
-	}
-	.navbar-nav > li > a {
-		padding: 15px 12px;
-	}
+.dropdown-menu>li>a {
+	font-size: 12px;
 }
+
+
 
 .front-page {
 		background-image: url(../img/diagonal-noise.png);
