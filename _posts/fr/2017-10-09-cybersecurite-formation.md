@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: cyber-journ.jpg
 excerpt: Après Conakry, Nouakchott et Dakar, des formations auront lieu dans d’autres capitales africaines
 introduction: Après Conakry, Nouakchott et Dakar, des formations auront lieu dans d’autres capitales africaines
-tag: featured
+tag: Africtivistes
 category: fr
 ---
 <!-- <img class="img-responsive img-post center-block" src="/assets/img/posts/cyber-journ.jpg"> -->

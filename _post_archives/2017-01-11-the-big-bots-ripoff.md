@@ -7,7 +7,7 @@ origin: This article first appeared in <a href="http://newafricanmagazine.com/bi
 image: bots.jpg
 excerpt: Botswana, Africa’s GDP poster-child, is the world’s second-biggest diamond producer, from which it earns four-fifths of its national income. Heavily reliant on diamond exports, the country went into business with mining giant De Beers 50 years ago. In a New African exclusive, Khadija Sharife reveals that Botswana has been getting a raw deal from the arrangement.
 introduction: Botswana, Africa’s GDP poster-child, is the world’s second-biggest diamond producer, from which it earns four-fifths of its national income. Heavily reliant on diamond exports, the country went into business with mining giant De Beers 50 years ago. In a New African exclusive, Khadija Sharife reveals that Botswana has been getting a raw deal from the arrangement.
-tags: featured
+tag: featured
 ---
 
 <img class="img-responsive img-post center-block" src="/assets/img/posts/bots.jpg">
